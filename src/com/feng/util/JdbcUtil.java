@@ -7,7 +7,7 @@ import java.sql.*;
  * Jdbc工具类，简化Jdbc编程
  */
 public class JdbcUtil {
-    final String URL="jdbc:mysql://localhost:3306/shop2?serverTimezone=GMT";
+    final String URL="jdbc:mysql://localhost:3306/graduation_shop2?serverTimezone=GMT";
     final String USERNAME="root";
     final String PASSWORD="123456";
     Connection conn=null;
